@@ -1,0 +1,7 @@
+{
+	"cmd": ["bash",
+			"/Users/Javier/Library/Application Support/Sublime Text 3/Packages/User/latexBuildScript.sh",
+			"$project_base_name"],
+	
+	"selector": ["source.tex"]
+}

@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Concha",
+		"Ecolight",
+		"Forand",
+		"Fournier",
+		"Hydrolight",
+		"Schott",
+		"reflectances",
+		"tex"
+	],
+	"spell_check": true,
+	"word_wrap": true
+}

@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Insert Nums",
+		"LaTeX Word Count",
+		"LaTeXTools",
+		"Package Control",
+		"SublimeREPL",
+		"Text Pastry",
+		"WordCount"
+	]
+}
